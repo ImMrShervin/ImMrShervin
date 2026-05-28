@@ -1,24 +1,13 @@
-<!--
-============================================================
-  GITHUB PROFILE README
-  Replace every "ImMrShervin", "Your Name", email, and
-  LinkedIn placeholder with your own details.
-============================================================
--->
-
-<!-- ===================== HERO ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Building%20clean%2C%20scalable%2C%20modern%20web%20experiences&descAlignY=58&descSize=16" alt="header banner" />
 
-<!-- Typing animation -->
 <a href="https://github.com/ImMrShervin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Your+Name;Full-Stack+Developer;Frontend+%7C+Vue.js+%2B+Tailwind+CSS;Backend+%7C+Python+%2B+PHP;Currently+learning+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shervin;Full-Stack+Developer;Frontend+%7C+Vue.js+%2B+Tailwind+CSS;Backend+%7C+Python+%2B+PHP;Currently+learning+React+%26+Next.js" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick profile badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=ImMrShervin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/ImMrShervin?tab=followers">
@@ -31,7 +20,6 @@
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
 <table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
@@ -77,7 +65,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== SKILLS ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" width="22" align="center" /> &nbsp;Tech Stack
@@ -115,7 +102,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" align="center" /> &nbsp;Currently Learning
@@ -143,7 +129,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" align="center" /> &nbsp;GitHub Analytics
@@ -163,16 +148,11 @@ const developer = {
 
 <br/>
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" align="center" /> &nbsp;Contribution Snake
 
-<!--
-  To enable this animation, add the snake generator GitHub Action:
-  https://github.com/Platane/snk
-  It generates the SVG on a schedule and pushes it to the "output" branch.
--->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
@@ -183,7 +163,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" align="center" /> &nbsp;Featured Projects
@@ -275,7 +254,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22" align="center" /> &nbsp;Achievements
@@ -286,7 +264,6 @@ const developer = {
 
 <br/>
 
-<!-- ===================== CONTACT ===================== -->
 <div align="center">
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" align="center" /> &nbsp;Connect With Me
