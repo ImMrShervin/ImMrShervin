@@ -55,11 +55,11 @@ pie title Frontend Skills
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ pie title Frontend Skills
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ImMrShervin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ pie title Frontend Skills
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ImMrShervin&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ pie title Frontend Skills
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImMrShervin&theme=tokyo-night" />
 </p>
 
 ---
@@ -100,14 +100,14 @@ pie title Frontend Skills
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ImMrShervin&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* GitHub: [https://github.com/ImMrShervin](https://github.com/ImMrShervin)
 * Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
@@ -116,4 +116,3 @@ pie title Frontend Skills
 
 ```
 ```
-
