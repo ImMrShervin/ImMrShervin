@@ -1,13 +1,9 @@
-حتماً — این هم کل README حرفه‌ای کامل دوباره، آماده کپی 👇
 
-````markdown
 # Hi, I'm Shervin
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+PHP+Engineer;Frontend+Developer+in+Progress;React+%26+Next.js+Learner;Always+Building+Something+Cool" />
 </p>
-
----
 
 ## 🧠 About Me
 
