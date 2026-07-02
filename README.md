@@ -271,10 +271,10 @@ const developer = {
 <a href="https://github.com/ImMrShervin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<!-- <a href="https://www.linkedin.com/in/your-linkedin/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="linkedin" />
-</a>
-<a href="mailto:your.email@example.com">
+</a> -->
+<a href="mailto:shervinmr84@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="email" />
 </a>
 
