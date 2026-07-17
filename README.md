@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Always+Learning+Something+New;Building+Useful+Software;Exploring+AI+and+Automation;Backend+Development+and+System+Design;Turning+Ideas+Into+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Always+Learning+Something+New;Building+Useful+Software;Exploring+AI+and+Automation;Backend+Development+and+System+Design;Turning+Ideas+Into+Projects"/>
 
 <br><br>
 
@@ -16,11 +16,14 @@
 
 ---
 
-## About Me
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
+ About Me
+</h2>
 
-Backend Developer with a strong interest in AI, automation, and building useful software.
+Backend Developer with a strong interest in Artificial Intelligence, automation, and building useful software.
 
-I enjoy solving problems, learning new technologies, and working with people who love creating things. Most of my recent learning and side projects revolve around AI applications, intelligent systems, and backend engineering.
+I enjoy solving problems, learning new technologies, collaborating with others, and turning ideas into practical projects. Recently, I've been spending most of my time exploring AI applications, backend systems, and software architecture.
 
 ```python
 developer = {
@@ -41,69 +44,39 @@ developer = {
 
 ---
 
-## What I'm Interested In
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
+ Current Focus
+</h2>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### AI
-
-LLMs
-
-AI Applications
-
-Agent Workflows
-
-Automation
-
-</td>
-
-<td width="33%" align="center">
-
-### Backend
-
-APIs
-
-Databases
-
-Architecture
-
-Scalable Systems
-
-</td>
-
-<td width="33%" align="center">
-
-### Growth
-
-Learning
-
-Open Source
-
-Collaboration
-
-Building Products
-
-</td>
-
-</tr>
-</table>
+* Building AI-powered applications
+* Learning more about LLMs and intelligent systems
+* Designing reliable backend services
+* Exploring automation workflows
+* Contributing to personal and open-source projects
 
 ---
 
-## Currently Exploring
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/python/00E5FF">
+ Interests
+</h2>
 
-* AI-powered applications
-* Agent workflows
-* Automation tools
-* Backend architecture
-* System design concepts
-* Open-source projects
+* Artificial Intelligence
+* Backend Development
+* Automation
+* System Design
+* Developer Tools
+* Open Source
+* Software Architecture
+* Product Development
 
 ---
 
-## Tech Stack
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/docker/00E5FF">
+ Tech Stack
+</h2>
 
 <div align="center">
 
@@ -123,7 +96,10 @@ Building Products
 
 ---
 
-## GitHub Stats
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
+ GitHub Stats
+</h2>
 
 <div align="center">
 
@@ -135,7 +111,10 @@ Building Products
 
 ---
 
-## Activity
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/githubactions/00E5FF">
+ Activity
+</h2>
 
 <div align="center">
 
@@ -145,7 +124,10 @@ Building Products
 
 ---
 
-## Contribution Snake
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/githubsponsors/00E5FF">
+ Contribution Snake
+</h2>
 
 <div align="center">
 
@@ -155,7 +137,10 @@ Building Products
 
 ---
 
-## Connect
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/gmail/00E5FF">
+ Connect
+</h2>
 
 <div align="center">
 
