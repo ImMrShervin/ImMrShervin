@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001219,50:005F73,100:0A9396&text=Shervin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Agent%20Architect%20%E2%80%A2%20LLM%20Builder&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001219,50:005F73,100:0A9396&text=Shervin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Agent%20Architect%20•%20LLM%20Builder&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Building+Systems+Not+Just+Demos"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Building+Systems+Not+Just+Demos"/>
 
 <br><br>
 
@@ -18,7 +18,10 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
+ About
+</h2>
 
 ```python
 class Shervin:
@@ -46,28 +49,31 @@ class Shervin:
 
 ---
 
-# ⚡ Current Focus
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
+ Current Focus
+</h2>
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-🧠 AI Agents
+<h3>Agentic Systems</h3>
 
-* Multi-Agent Systems
+* Multi-Agent Architectures
 * Tool Calling
+* Memory Systems
 * Agent Orchestration
-* Long-Term Memory
 
 </td>
 
-<td>
+<td width="50%">
 
-📚 Knowledge Systems
+<h3>Knowledge Systems</h3>
 
-* RAG
-* Vector Search
+* RAG Pipelines
 * Semantic Retrieval
+* Vector Databases
 * Knowledge Graphs
 
 </td>
@@ -76,27 +82,55 @@ class Shervin:
 
 ---
 
-# 🚀 What I Build
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
+ What I Build
+</h2>
 
-### 🤖 AI Agents
+<table>
+<tr>
+<td width="50%">
 
-Autonomous systems capable of planning, reasoning, memory management and tool execution.
+<h3>AI Agents</h3>
 
-### 🧠 Retrieval Systems
+Production-grade agents with planning, reasoning, memory and tool execution.
 
-Knowledge-aware applications powered by RAG pipelines and semantic search.
+</td>
 
-### ⚡ AI Automation
+<td width="50%">
 
-Connecting LLMs, APIs, databases and business workflows into intelligent systems.
+<h3>Retrieval Systems</h3>
 
-### 🔧 Backend Infrastructure
+Knowledge-aware applications powered by semantic search and RAG.
 
-Reliable services, APIs and architectures powering production AI applications.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>AI Automation</h3>
+
+Workflow automation using LLMs, APIs and business integrations.
+
+</td>
+
+<td width="50%">
+
+<h3>Backend Infrastructure</h3>
+
+Reliable services and APIs powering intelligent applications.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/docker/00E5FF">
+ Technology Stack
+</h2>
 
 <div align="center">
 
@@ -104,21 +138,24 @@ Reliable services, APIs and architectures powering production AI applications.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OpenAI-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/LangChain-0A9396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/LangGraph-005F73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/RAG-00B8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/AI%20Agents-64FFDA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-0D1117?style=for-the-badge&color=0D1117"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
+ GitHub Analytics
+</h2>
 
 <div align="center">
 
@@ -138,7 +175,10 @@ Reliable services, APIs and architectures powering production AI applications.
 
 ---
 
-# 📈 Activity Graph
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/graph/00E5FF">
+ Activity Graph
+</h2>
 
 <div align="center">
 
@@ -148,38 +188,73 @@ Reliable services, APIs and architectures powering production AI applications.
 
 ---
 
-# 🐍 Contribution Snake
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/githubsponsors/00E5FF">
+ Contribution Snake
+</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
-
-<source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
-
-<img alt="snake animation"
- src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" /> </picture>
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-# 🎯 Engineering Interests
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/gnometerminal/00E5FF">
+ Engineering Interests
+</h2>
 
-* Agent Architectures
-* AI Infrastructure
-* Distributed Systems
-* Software Architecture
-* Human-AI Collaboration
-* Knowledge Retrieval
-* Developer Tooling
-* Autonomous Systems
+<table>
+<tr>
+<td>
+
+AI Infrastructure
+
+</td>
+<td>
+
+Agent Architectures
+
+</td>
+<td>
+
+Distributed Systems
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Software Architecture
+
+</td>
+<td>
+
+Knowledge Retrieval
+
+</td>
+<td>
+
+Developer Tooling
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Connect
+<h2>
+<img width="24" src="https://cdn.simpleicons.org/gmail/00E5FF">
+ Connect
+</h2>
 
 <div align="center">
 
@@ -197,9 +272,8 @@ Reliable services, APIs and architectures powering production AI applications.
 
 <div align="center">
 
-### ⚡ Building AI systems that work in production.
+<h3>Building AI systems that work in production.</h3>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A9396,50:005F73,100:001219"/>
-
