@@ -125,19 +125,6 @@ developer = {
 ---
 
 <h2>
-<img width="24" src="https://cdn.simpleicons.org/githubsponsors/00E5FF">
- Contribution Snake
-</h2>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<h2>
 <img width="24" src="https://cdn.simpleicons.org/gmail/00E5FF">
  Connect
 </h2>
