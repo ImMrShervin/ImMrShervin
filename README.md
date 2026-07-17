@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Building+Systems+Not+Just+Demos"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Building+Systems+Not+Just+Demos"/>
 
 <br><br>
 
@@ -18,10 +18,7 @@
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
- About
-</h2>
+# About
 
 ```python
 class Shervin:
@@ -49,32 +46,92 @@ class Shervin:
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
- Current Focus
-</h2>
+# Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Agentic Systems
+
+Multi-Agent Architectures
+
+Tool Calling
+
+Memory Systems
+
+Agent Orchestration
+
+</td>
+
+<td width="33%" align="center">
+
+### Knowledge Systems
+
+RAG Pipelines
+
+Semantic Retrieval
+
+Vector Databases
+
+Knowledge Graphs
+
+</td>
+
+<td width="33%" align="center">
+
+### Infrastructure
+
+Docker
+
+PostgreSQL
+
+FastAPI
+
+Scalable Services
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-<h3>Agentic Systems</h3>
+### AI Agents
 
-* Multi-Agent Architectures
-* Tool Calling
-* Memory Systems
-* Agent Orchestration
+Autonomous systems capable of reasoning, planning, memory management and tool execution.
 
 </td>
 
 <td width="50%">
 
-<h3>Knowledge Systems</h3>
+### Retrieval Systems
 
-* RAG Pipelines
-* Semantic Retrieval
-* Vector Databases
-* Knowledge Graphs
+Knowledge-aware applications powered by semantic search and RAG pipelines.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI Automation
+
+Workflows connecting LLMs, APIs, databases and business operations.
+
+</td>
+
+<td width="50%">
+
+### Backend Infrastructure
+
+Reliable APIs and services powering production AI applications.
 
 </td>
 </tr>
@@ -82,55 +139,7 @@ class Shervin:
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
- What I Build
-</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>AI Agents</h3>
-
-Production-grade agents with planning, reasoning, memory and tool execution.
-
-</td>
-
-<td width="50%">
-
-<h3>Retrieval Systems</h3>
-
-Knowledge-aware applications powered by semantic search and RAG.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>AI Automation</h3>
-
-Workflow automation using LLMs, APIs and business integrations.
-
-</td>
-
-<td width="50%">
-
-<h3>Backend Infrastructure</h3>
-
-Reliable services and APIs powering intelligent applications.
-
-</td>
-</tr>
-</table>
-
----
-
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/docker/00E5FF">
- Technology Stack
-</h2>
+# Technology Stack
 
 <div align="center">
 
@@ -140,28 +149,25 @@ Reliable services and APIs powering intelligent applications.
 
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&color=0D1117"/>
+<img src="https://img.shields.io/badge/LangChain-0A9396?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&color=0D1117"/>
+<img src="https://img.shields.io/badge/LangGraph-005F73?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&color=0D1117"/>
+<img src="https://img.shields.io/badge/RAG-00B8D4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Agents-0D1117?style=for-the-badge&color=0D1117"/>
+<img src="https://img.shields.io/badge/Agents-64FFDA?style=for-the-badge&logoColor=000000"/>
 
 </div>
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/github/00E5FF">
- GitHub Analytics
-</h2>
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=64FFDA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=64FFDA&text_color=C9D1D9"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImMrShervin&background=0D1117&ring=00E5FF&fire=64FFDA&currStreakLabel=00E5FF&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ImMrShervin&background=0D1117&ring=00E5FF&fire=64FFDA&currStreakLabel=00E5FF&hide_border=true"/>
 
 </div>
 
@@ -169,16 +175,13 @@ Reliable services and APIs powering intelligent applications.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/graph/00E5FF">
- Activity Graph
-</h2>
+# Activity Graph
 
 <div align="center">
 
@@ -188,82 +191,36 @@ Reliable services and APIs powering intelligent applications.
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/githubsponsors/00E5FF">
- Contribution Snake
-</h2>
+# Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation"
-    src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/gnometerminal/00E5FF">
- Engineering Interests
-</h2>
+# Engineering Interests
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-AI Infrastructure
+AI Infrastructure • Agent Architectures • Distributed Systems • Software Architecture • Knowledge Retrieval • Developer Tooling • Autonomous Systems
 
-</td>
-<td>
-
-Agent Architectures
-
-</td>
-<td>
-
-Distributed Systems
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-Software Architecture
-
-</td>
-<td>
-
-Knowledge Retrieval
-
-</td>
-<td>
-
-Developer Tooling
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h2>
-<img width="24" src="https://cdn.simpleicons.org/gmail/00E5FF">
- Connect
-</h2>
+# Connect
 
 <div align="center">
 
 <a href="https://github.com/ImMrShervin">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:shervinmr84@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 </div>
@@ -272,8 +229,9 @@ Developer Tooling
 
 <div align="center">
 
-<h3>Building AI systems that work in production.</h3>
+### Building AI systems that work in production.
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A9396,50:005F73,100:001219"/>
+
