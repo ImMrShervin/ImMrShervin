@@ -1,22 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Shervin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Agent%20Architect%20%7C%20LLM%20Builder&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001219,50:005F73,100:0A9396&text=Shervin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Agent%20Architect%20%E2%80%A2%20LLM%20Builder&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Scaling+AI+Beyond+The+Demo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Building+Systems+Not+Just+Demos"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ImMrShervin&style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/github/followers/ImMrShervin?style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-blueviolet?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ImMrShervin&style=for-the-badge&color=00E5FF"/>
+
+<img src="https://img.shields.io/github/followers/ImMrShervin?style=for-the-badge&color=00B8D4"/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20Systems-00E5FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 👨‍💻 About Me
 
 ```python
 class Shervin:
@@ -27,8 +29,8 @@ class Shervin:
         "AI Agents",
         "LLM Applications",
         "RAG Systems",
-        "Automation",
-        "Backend Architecture"
+        "Backend Engineering",
+        "Automation"
     ]
 
     currently_building = [
@@ -38,43 +40,35 @@ class Shervin:
     ]
 
     philosophy = (
-        "Build systems, not demos."
+        "Build reliable systems, not AI demos."
     )
 ```
 
 ---
 
-# 🧠 Core Expertise
+# ⚡ Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### AI Engineering
+🧠 AI Agents
 
-* Agentic Systems
-* AI Agents
+* Multi-Agent Systems
 * Tool Calling
-* RAG Pipelines
-* LLM Integration
-* Prompt Engineering
-* AI Evaluation
-* Multi-Agent Workflows
+* Agent Orchestration
+* Long-Term Memory
 
 </td>
 
-<td width="50%">
+<td>
 
-### Systems Engineering
+📚 Knowledge Systems
 
-* Python
-* FastAPI
-* Distributed Systems
-* API Design
-* PostgreSQL
-* Redis
-* Docker
-* Linux
+* RAG
+* Vector Search
+* Semantic Retrieval
+* Knowledge Graphs
 
 </td>
 </tr>
@@ -82,64 +76,45 @@ class Shervin:
 
 ---
 
-# 🚀 Current Mission
+# 🚀 What I Build
 
-```text
-Building intelligent software that can:
-✓ Reason
-✓ Retrieve Knowledge
-✓ Use Tools
-✓ Execute Workflows
-✓ Deliver Real Business Value
-```
+### 🤖 AI Agents
+
+Autonomous systems capable of planning, reasoning, memory management and tool execution.
+
+### 🧠 Retrieval Systems
+
+Knowledge-aware applications powered by RAG pipelines and semantic search.
+
+### ⚡ AI Automation
+
+Connecting LLMs, APIs, databases and business workflows into intelligent systems.
+
+### 🔧 Backend Infrastructure
+
+Reliable services, APIs and architectures powering production AI applications.
 
 ---
 
-# 🛠 Technology Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-### AI & LLM
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,github,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<br><br>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-00E5FF?style=for-the-badge"/>
 
-### Backend & Infrastructure
+<img src="https://img.shields.io/badge/LangChain-0A9396?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,github" />
+<img src="https://img.shields.io/badge/LangGraph-005F73?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-00B8D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-64FFDA?style=for-the-badge"/>
 
 </div>
-
----
-
-# 🔥 Featured Projects
-
-### 🤖 Autonomous Agent Platform
-
-Production-grade AI agents with memory, planning, tool usage and workflow orchestration.
-
----
-
-### 🧠 RAG Knowledge Engine
-
-Knowledge retrieval architecture powered by vector search and contextual reasoning.
-
----
-
-### ⚡ AI Automation Framework
-
-Automating repetitive workflows through AI-driven execution pipelines.
-
----
-
-### 🔍 Research Agent
-
-Autonomous information gathering, synthesis and structured reporting.
 
 ---
 
@@ -147,9 +122,9 @@ Autonomous information gathering, synthesis and structured reporting.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=64FFDA&text_color=C9D1D9"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImMrShervin&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImMrShervin&background=0D1117&ring=00E5FF&fire=64FFDA&currStreakLabel=00E5FF&hide_border=true"/>
 
 </div>
 
@@ -157,7 +132,7 @@ Autonomous information gathering, synthesis and structured reporting.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -167,17 +142,7 @@ Autonomous information gathering, synthesis and structured reporting.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImMrShervin&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🌎 3D Contribution Globe
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImMrShervin&bg_color=0d1117&color=00E5FF&line=00E5FF&point=64FFDA&area=true&hide_border=true"/>
 
 </div>
 
@@ -190,34 +155,14 @@ Autonomous information gathering, synthesis and structured reporting.
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
-</picture>
+
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
+
+<img alt="snake animation"
+ src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" /> </picture>
 
 </div>
-
----
-
-# ⚙ Current Focus
-
-```yaml
-AI Agents:
-  - Multi-Agent Systems
-  - Agent Orchestration
-  - Tool Calling
-
-Knowledge Systems:
-  - RAG
-  - Vector Search
-  - Semantic Retrieval
-
-Infrastructure:
-  - Docker
-  - Backend Services
-  - Scalable Architectures
-```
 
 ---
 
@@ -226,11 +171,11 @@ Infrastructure:
 * Agent Architectures
 * AI Infrastructure
 * Distributed Systems
-* Human-AI Collaboration
 * Software Architecture
+* Human-AI Collaboration
+* Knowledge Retrieval
 * Developer Tooling
 * Autonomous Systems
-* Production AI
 
 ---
 
@@ -239,11 +184,11 @@ Infrastructure:
 <div align="center">
 
 <a href="https://github.com/ImMrShervin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:shervinmr84@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -252,10 +197,9 @@ Infrastructure:
 
 <div align="center">
 
-### "Engineering reliable AI systems, not just AI demos."
+### ⚡ Building AI systems that work in production.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A9396,50:005F73,100:001219"/>
 
