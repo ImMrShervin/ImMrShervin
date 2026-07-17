@@ -1,130 +1,261 @@
-Hi, I'm Shervin 👋
-AI Systems Engineer
+<div align="center">
 
-Building production-grade AI systems, autonomous agents, and intelligent software that solve real-world problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Shervin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Agent%20Architect%20%7C%20LLM%20Builder&descAlignY=58" />
 
-About Me
+<br>
 
-I am an AI-focused software engineer passionate about designing reliable, scalable, and maintainable intelligent systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Designing+Agentic+Architectures;Engineering+LLM+Applications;Creating+Autonomous+Workflows;Scaling+AI+Beyond+The+Demo" />
 
-My work sits at the intersection of:
+<br><br>
 
-Artificial Intelligence
-Backend Engineering
-System Design
-Automation
-Distributed Workflows
+<img src="https://komarev.com/ghpvc/?username=ImMrShervin&style=for-the-badge&color=8A2BE2" />
+<img src="https://img.shields.io/github/followers/ImMrShervin?style=for-the-badge&color=8A2BE2" />
+<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-blueviolet?style=for-the-badge" />
 
-Rather than focusing on individual frameworks, I focus on engineering complete systems that combine LLMs, tools, data pipelines, APIs, and infrastructure into production-ready solutions.
+</div>
 
-Engineering Philosophy
-engineer = {
-    "mission": "Build AI systems that create measurable value",
-    "focus": [
+---
+
+# ⚡ About Me
+
+```python
+class Shervin:
+
+    role = "AI Systems Engineer"
+
+    focus = [
+        "AI Agents",
         "LLM Applications",
-        "Agentic Systems",
-        "Knowledge Retrieval",
-        "Workflow Automation",
+        "RAG Systems",
+        "Automation",
         "Backend Architecture"
-    ],
-    "principles": [
-        "Reliability over hype",
-        "Systems over demos",
-        "Scalability by design",
-        "Continuous learning"
     ]
-}
-Areas of Expertise
-AI Engineering
-Large Language Models (LLMs)
-AI Agents & Tool Calling
-Retrieval-Augmented Generation (RAG)
-Multi-Agent Architectures
-Prompt Engineering
-AI Workflow Design
-Evaluation & Optimization
-Backend & Systems
-Python
-API Design
-FastAPI
-System Architecture
-Distributed Services
-Database Design
-Event-Driven Systems
-Data & Automation
-Data Processing Pipelines
-Knowledge Management Systems
-Web Data Extraction
-Workflow Automation
-AI-Powered Integrations
-Infrastructure
-Docker
-Linux
-Git & CI/CD
-Cloud Services
-Monitoring & Observability
-Current Focus
 
-Currently exploring and building:
+    currently_building = [
+        "Agentic Workflows",
+        "Knowledge Systems",
+        "AI Infrastructure"
+    ]
 
-Advanced Agentic Workflows
-Multi-Agent Collaboration Systems
-Long-Term Memory Architectures
-AI Operating Systems
-Knowledge-Centric Applications
-Production AI Infrastructure
-What I Build
-AI Agents
+    philosophy = (
+        "Build systems, not demos."
+    )
+```
 
-Autonomous systems capable of reasoning, planning, tool usage, and task execution.
+---
 
-Retrieval Systems
+# 🧠 Core Expertise
 
-Knowledge-aware applications powered by semantic search, vector databases, and RAG pipelines.
+<table>
+<tr>
+<td width="50%">
 
-AI Automation
+### AI Engineering
 
-Workflows that connect LLMs, APIs, databases, and business processes.
+* Agentic Systems
+* AI Agents
+* Tool Calling
+* RAG Pipelines
+* LLM Integration
+* Prompt Engineering
+* AI Evaluation
+* Multi-Agent Workflows
 
-Intelligent Platforms
+</td>
 
-End-to-end products that transform AI capabilities into practical solutions.
+<td width="50%">
 
-Selected Projects
-Agentic AI Systems
+### Systems Engineering
 
-Designing and implementing autonomous workflows with tool calling, memory management, and reasoning capabilities.
+* Python
+* FastAPI
+* Distributed Systems
+* API Design
+* PostgreSQL
+* Redis
+* Docker
+* Linux
 
-Retrieval-Augmented Applications
+</td>
+</tr>
+</table>
 
-Building systems that combine private knowledge bases with modern LLMs for accurate and contextual responses.
+---
 
-AI Automation Platforms
+# 🚀 Current Mission
 
-Creating scalable automation solutions that integrate AI into real business operations.
+```text
+Building intelligent software that can:
+✓ Reason
+✓ Retrieve Knowledge
+✓ Use Tools
+✓ Execute Workflows
+✓ Deliver Real Business Value
+```
 
-Backend Infrastructure
+---
 
-Developing reliable APIs, services, and architectures that power intelligent applications.
+# 🛠 Technology Stack
 
-Technical Interests
-Artificial Intelligence
-AI Systems Engineering
-Agent Architectures
-Distributed Systems
-Software Architecture
-Knowledge Retrieval
-Human-AI Collaboration
-Developer Tooling
-GitHub Analytics
+<div align="center">
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ImMrShervin&theme=tokyonight&hide_border=true" /> </p>
+### AI & LLM
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<img src="https://skillicons.dev/icons?i=python" />
 
-Connect
-GitHub: https://github.com/ImMrShervin
-Email: shervinmr84@gmail.com
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-blueviolet?style=for-the-badge" />
 
-Building AI systems that are useful, reliable, and designed for the real world.
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,linux,github" />
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+### 🤖 Autonomous Agent Platform
+
+Production-grade AI agents with memory, planning, tool usage and workflow orchestration.
+
+---
+
+### 🧠 RAG Knowledge Engine
+
+Knowledge retrieval architecture powered by vector search and contextual reasoning.
+
+---
+
+### ⚡ AI Automation Framework
+
+Automating repetitive workflows through AI-driven execution pipelines.
+
+---
+
+### 🔍 Research Agent
+
+Autonomous information gathering, synthesis and structured reporting.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ImMrShervin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImMrShervin&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMrShervin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImMrShervin&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🌎 3D Contribution Globe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/ImMrShervin/ImMrShervin/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# ⚙ Current Focus
+
+```yaml
+AI Agents:
+  - Multi-Agent Systems
+  - Agent Orchestration
+  - Tool Calling
+
+Knowledge Systems:
+  - RAG
+  - Vector Search
+  - Semantic Retrieval
+
+Infrastructure:
+  - Docker
+  - Backend Services
+  - Scalable Architectures
+```
+
+---
+
+# 🎯 Engineering Interests
+
+* Agent Architectures
+* AI Infrastructure
+* Distributed Systems
+* Human-AI Collaboration
+* Software Architecture
+* Developer Tooling
+* Autonomous Systems
+* Production AI
+
+---
+
+# 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/ImMrShervin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:shervinmr84@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### "Engineering reliable AI systems, not just AI demos."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+
 
