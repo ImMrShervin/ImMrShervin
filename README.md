@@ -45,7 +45,7 @@ developer = {
 ---
 
 <h2>
-<img width="24" src="https://cdn.simpleicons.org/openai/00E5FF">
+<img width="24" src="https://cdn.simpleicons.org/onnx/00E5FF">
  Current Focus
 </h2>
 
